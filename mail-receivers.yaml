@@ -1,0 +1,10 @@
+receivers:
+  - project: Evaluation
+    receiveMail:
+      - manager
+  #    - solution architect
+  #    - enterprise architect
+    approveReport:
+      - manager
+  #    - solution architect
+  #    - enterprise architect
